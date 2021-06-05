@@ -5,8 +5,10 @@ Providing accurate information to consumers is an important part of building tru
 
 ### Tools
 PowerBI for visualizations
+
 Canva for data presentation
 
 ### Data Sources
 Aviation Safety Network
+
 US Department of Transportation
