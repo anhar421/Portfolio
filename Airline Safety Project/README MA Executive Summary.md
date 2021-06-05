@@ -1,7 +1,7 @@
 # Model Airlines Airline Safety
 ## Executive Summary
 
-This is a Powerpoint presentation geared towards executives at Model Airlines to help communicate information about the airline industry as a whole as well as Model Airlines.
+The issue of airline safety for both the airline industry as a whole and Model Airlines specifically is important for executives to understand in order to make important decisions. This presentation was developed to communicate the current issues and successes that Model Airlines is experiencing.
 
 *Note that there are both PPTX and PDF files available.
 
