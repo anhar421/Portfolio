@@ -4,9 +4,9 @@
 It is important to keep employees up to date on relevant information within the company. Utlizing different visualization techniques can help create a clear picture of the data without needing to possess a detailed understanding of the data itself.
 
 ### Tools
-PowerBI for visualizations
+Data originally processed with Python and PowerBI
 
-Canva for data presentation
+PowerBI and Canva for visualizations
 
 ### Data Sources
 Aviation Safety Network
