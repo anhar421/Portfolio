@@ -1,0 +1,373 @@
+common_name,scientific_name,MLE_combined,MLE_male,MLE_female
+Aardvark,Orycteropus afer,-,,11.5
+Addax,Addax nasomaculatus,-,10.7,13.9
+"Agouti, Brazilian",Dasyprocta leporina,8.2,-,-
+"Alligator, Chinese",Alligator sinensis,25,-,-
+"Anoa, Lowland",Bubalus depressicornis,17.4,-,-
+"Anteater, Giant",Myrmecophaga tridactyla,19.2,-,-
+"Antelope, Roan",Hippotragus equinus,-,,12.3
+"Antelope, Sable",Hippotragus niger,11,-,-
+"Aracari, Green",Pteroglossus viridis,7.9,-,-
+"Argus, Great",Argusianus argus,12.4,-,-
+"Armadillo, Southern Three-banded",Tolypeutes matacas,18.2,-,-
+"Baboon, Hamadryas",Papio hamadryas,27.5,-,-
+Barasingha,Rucervus duvaucelii,-,9.3,13.1
+"Barbet, Bearded",Pogonornis dubius,5.6,-,-
+"Barbet, Red and Yellow",Trachyphonus erythrocephalus,4.6,-,-
+"Bat, Rodrigues Fruit",Pteropus rodricensis,-,13.6,16.5
+"Bat, Straw-Colored Fruit",Eidolon helvum,-,18.5,
+"Bear, Andean Spectacled",Tremarctos ornatus,26,-,-
+"Bear, Asiatic Black",Ursus thibetanus,-,,29.3
+"Bear, Brown",Ursus arctos,-,21.9,26.8
+"Bear, Polar",Ursus maritimus,23.4,-,-
+"Bear, Sloth",Melursus ursinus,17.8,-,-
+"Bear, Sun",Helarctos malayanus,-,,23.1
+"Beaver, American",Castor canadensis,10.6,-,-
+"Bettong, Brush-tailed",Bettongia penicillata,8.3,-,-
+Binturong,Arctictis binturong,-,17.9,14.8
+"Bird-of-paradise, Raggiana",Paradisaea raggiana,14.5,-,-
+"Bluebird, Fairy",Irena puella,5,-,-
+"Boa, Jamaican",Chilabothrus subflavus,-,23.7,15.8
+Bobcat,Lynx rufus,18.3,-,-
+"Bongo, Eastern",Tragelaphus eurycerus isaaci,-,9.2,12.3
+Bonobo,Pan paniscus,-,33.6,
+Bontebok,Damaliscus pygargus pygarus,11,-,-
+"Buffalo, African Savannah",Syncerus caffer,18.8,-,-
+"Bulbul, Collared Finch-billed",Spizixos semitorques,5,-,-
+"Bushbaby, Moholi",Galago moholi,7.6,-,-
+"Bushmaster, South American",Lachesis muta,7.8,-,-
+"Bustard, Buff-crested",Lophotis gindiana,7.5,-,-
+"Buttonquail, Madagascar",Turnix nigricollis,-,,3.2
+"Cacique, Yellow-rumped",Cacicus cela,-,,6.7
+Callimico,Callimico goeldii,8.9,-,-
+"Camel, Bactrian",Camelus bactrianus,17.8,-,-
+Capybara,Hydrochaeris hydrochaeris,-,7.1,8.6
+Caracal,Caracal caracal,12.9,-,-
+"Cardinal, Red-capped",Paroaria gularis,5.8,-,-
+"Cardinal, Red-crested",Paroaria coronata,4.1,-,-
+"Cassowary, Southern (Double-wattled)",Casuarius casuarius,22,-,-
+"Cat, Black-footed",Felis nigripes,5.3,-,-
+"Cat, Fishing",Prionailurus viverrinus,-,10.9,12.8
+"Cat, Pallas'",Felis manul,8.7,-,-
+"Cat, Sand",Felis margarita,10,-,-
+"Chat, Snowy-Headed Robin",Cossypha niveicapilla,4.4,-,-
+Cheetah,Acinonyx jubatus,11.7,-,-
+"Chevrotain, Greater Malayan",Tragulus napu,7.2,-,-
+"Chicken, Attwater's Prairie",Tympanuchus cupido attwateri,3.2,-,-
+Chimpanzee,Pan troglodytes,-,32.5,40.1
+"Chuckwalla, San Esteban",Sauromalus varius,8.4,-,-
+"Coatimundi, White-Nosed",Nasua narica,13.5,-,-
+"Colobus, Angolan",Colobus angolensis,19.5,-,-
+"Colobus, Guereza",Colobus guereza,-,19.6,15.1
+"Conure, Golden",Guarouba guarouba,16.3,-,-
+"Crake, Black",Zapornia flavirostra,3.7,-,-
+"Crane, Black-crowned",Balearica pavonina,12.9,-,-
+"Crane, Blue",Anthropoides paradisea,13.4,-,-
+"Crane, Demoiselle",Anthropoides virgo,13.2,-,-
+"Crane, Grey-crowned",Balearica regulorum,12.2,-,-
+"Crane, Hooded",Grus monacha,14,-,-
+"Crane, Red-crowned",Grus japonensis,29,-,-
+"Crane, Wattled",Bugeranus carunculatus,-,20,
+"Crane, White-naped",Grus vipio,15.1,-,-
+"Crane, Whooping",Grus americana,28.6,-,-
+"Curassow, Helmeted",Pauxi pauxi,16.6,-,-
+"Curassow, Wattled",Crax globulosa,12.6,-,-
+"Deer, Eld's",Rucervus eldii thamin,-,9.5,13.4
+"Deer, Mexican Red Brocket",Mazama temama,5.3,-,-
+"Deer, Père David’s",Elaphurus davidianus,-,13.2,16.3
+"Deer, Western Tufted",Elaphodus cehalophus,-,14.3,9.3
+"Deer, White-lipped",Przewalskium albirostris,15.1,-,-
+"Dik-dik, Kirk's",Madoqua kirkii,4.7,-,-
+"Dikkop, Spotted",Burhinus capensis,19.1,-,-
+"Dog, African Painted",Lycaon pictus,10.1,-,-
+"Dog, Bush",Speothos venaticus,-,8.9,7.3
+"Dove, Beautiful Fruit",Ptilinopus pulchellus,7.2,-,-
+"Dove, Black-naped Fruit",Ptilinopus melanospilus,6.5,-,-
+"Dove, Grey-capped Emerald",Chalcophaps indica,-,7.2,5.7
+"Dove, Jambu Fruit",Ptilinopus jambu,6.1,-,-
+"Dove, Luzon Bleeding Heart",Gallicolumba luzonica,5.8,-,-
+"Dove, Mariana Fruit",Ptilinopus roseicapilla,-,12,5.9
+"Dove, Mindanao Bleeding Heart",Gallicolumba criniger,5,-,-
+"Dove, Pink-necked Fruit",Ptilinopus porphyrea,-,6.8,5
+"Dragon, Komodo",Varanus komodoensis,-,19.5,12.2
+"Duck, Spotted Whistling",Dendrocygna guttata,-,,7.1
+"Duck, West Indian Whistling",Dendrocygna arborea,8.9,-,-
+"Duck, White-winged Wood",Asarcornis scutulata,5.7,-,-
+"Duiker, Black",Cephalopus niger,-,,6.6
+"Duiker, Blue",Philantomba monticola,4.7,-,-
+"Duiker, Yellow-backed",Cephalophus silvicultor,10,-,-
+"Eagle, Bald",Haliaeetus leucoephalus,16.5,-,-
+"Eland, Common",Taurotragus oryx,-,11.4,13.6
+"Elephant, African",Loxodonta africana,-,See Full Repo,38.6
+"Elephant, Asian",Elephas maximus,-,See Full Repo,46.9
+"Falcon, African Pygmy",Polihierax semitorquatus,7.1,-,-
+"Flamingo, Caribbean",Phoenicopterus ruber,27.2,-,-
+"Flamingo, Chilean",Phoenicopterus chilensis,-,31.1,27.2
+"Flamingo, Greater",Phoenicopterus ruber roseus,-,,33.9
+"Flamingo, Lesser",Phoeniconaias minor,-,21.7,15.3
+"Flying Fox, Island",Pteropus hypomelanus,-,,25.1
+"Flying Fox, Large",Pteropus vampyrus,17.1,-,-
+"Fox, Fennec",Vulpes zerda,11.1,-,-
+"Fox, Swift",Vulpes velox,11,-,-
+"Frog, Dusky Gopher",Lithobates (Rana) sevosa,6.6,-,-
+"Frog, Golden Harlequin",Atelopus varius,3.6,-,-
+"Frog, Panamanian Golden (Ahogado)",Atelopus zeteki,7.5,-,-
+"Frog, Panamanian Golden (Sora)",Atelopus zeteki,-,5.1,4.2
+"Frogmouth, Tawny",Podargus strigoides,-,21.3,14.9
+"Galago, Northern Greater",Otolemur garnettii,13,-,-
+"Galliwasp, Haitian",Celestus warreni,-,,14.2
+"Gazelle, Grant's",Nanger granti,-,3.5,6.2
+"Gazelle, Nubian Soemmerring's",Nanger soemmerringii,-,5.5,6.6
+"Gazelle, Slender-Horned",Gazella leptoceros,-,4.6,5.6
+"Gazelle, Thomson's",Eudorcas thomsonii,-,5.2,11
+"Gecko, Giant Leaf-tailed",Uroplatus fimbriatus,4.7,-,-
+"Gecko, Henkel's Leaf-tailed",Uroplatus henkeli,-,5.1,4.2
+"Gecko, Lined Leaf-tailed",Uroplatus lineatus,4.6,-,-
+"Gecko, Mossy Leaf-tailed",Uroplatus sikorae,2.5,-,-
+"Gecko, Satanic Leaf-tailed",Uroplatus phantasticus,2.5,-,-
+Gemsbok,Oryx gazella gazella,11.7,-,-
+"Gerenuk, Southern",Litocranius walleri,-,3.7,5.7
+"Gibbon, Lar (White-handed)",Hylobates lar,16.4,-,-
+Giraffe (Combined Masai & Generic),Giraffa camelopardalis,-,14.7,20.2
+"Goose, African Pygmy",Nettapus auritus,8.4,-,-
+"Goose, Indian Pygmy",Nettapus coromandelianus,9.4,-,-
+"Goose, Nene",Branta sandvicensis,7.8,-,-
+"Goose, Red-breasted",Branta ruficollis,9.3,-,-
+"Goose, Swan",Anser cygnoides,13.1,-,-
+"Goral, Chinese",Naemorhedus griseus,-,12.4,
+"Gorilla, Western Lowland",Gorilla gorilla gorilla,-,32.7,39.1
+"Guineafowl, Crested",Guttera pucherani,6.9,-,-
+"Guineafowl, Vulturine",Acryllium vulturinum,-,4.9,4
+Hamerkop,Scopus umbretta,-,11.6,6.4
+"Heron, Boat-billed",Cochlearius cochlearius,8.9,-,-
+"Hippopotamus, Pygmy",Cheoropis liberiensi,-,,27.6
+"Hippopotamus, River",Hippopotamus amphibius,37.4,-,-
+"Hog, Red River",Potamochoerus porcus,15.3,-,-
+"Hornbill, Abyssinian Ground",Bucorvus abyssinicus,-,,16.8
+"Hornbill, Great",Buceros bicornis,27.2,-,-
+"Hornbill, Red-billed",Tockus erythrorhynchus,11.1,-,-
+"Hornbill, Rhinoceros",Buceros rhinoceros,20.9,-,-
+"Hornbill, Wrinkled",Rhabdotorrhinus corrugatus,-,,10.6
+"Horse, Asian Wild",Equus ferus przewalskii,17.9,-,-
+"Hyena, Spotted",Crocuta crocuta,21,-,-
+"Hyrax, Rock",Procavia capensis,5.4,-,-
+"Ibex, Nubian",Capra nubiana,9.5,-,-
+"Ibis, Puna",Plegadis ridgwayi,13.5,-,-
+"Ibis, Sacred",Threskiornis aethiopicus,12.6,-,-
+"Ibis, Scarlet",Eudocimus ruber,11.9,-,-
+"Ibis, Waldrapp",Geronticus eremita,17.1,-,-
+"Iguana, Fiji Banded",Brachylophus bulabula,-,16.2,7
+Jaguar,Pantera onca,18,-,-
+"Jay, Plush Crested",Cyanocorax chrysops,10.4,-,-
+"Kangaroo, Red",Macropus rufus,-,8,9.9
+Kea,Nestor notabilis,8.7,-,-
+"Kingfisher, Guam",Todiramphus cinnamominus,-,8.8,5.9
+Kinkajou,Potos flavus,26.4,-,-
+"Kiwi, North Island Brown",Apteryx australis mantelli,12.6,-,-
+Klipspringer,Oreotragus oreotragus,8.5,-,-
+"Koala, Queensland",Phascolarctos cinereus adustus,10.1,-,-
+"Kob, Uganda",Kobus kob thomasi,-,5.5,9.2
+"Kookaburra, Laughing",Dacelo novaeguineae,17.2,-,-
+"Kudu, Greater",Tragelaphus strepsiceros,-,6.8,9.6
+"Langur, Francois'",Trachypithecus francoisi francoisi,14.4,-,-
+"Langur, Silvered Leaf",Trachypithecus cristatus ultimus,9.4,-,-
+"Lapwing, Masked",Vanellus miles,-,9.5,-
+"Lapwing, Spur-winged",Vanellus spinosus,5.2,-,-
+"Laughingthrush, White-crested",Garrulax leucolophus,10.5,-,-
+"Lechwe, Nile",Kobus megaceros,9.3,-,-
+"Lechwe, Red",Kobus leche,7.5,-,-
+"Leiothrix, Red-billed",Leiothrix lutea,-,9.7,6.3
+"Lemur, Black and White Ruffed",Varecia variegata,18.4,-,-
+"Lemur, Collared",Eulemur collaris,23.4,-,-
+"Lemur, Crowned",Eulemur coronatus,18.6,-,-
+"Lemur, Mongoose",Eulemur mongoz,22.6,-,-
+"Lemur, Mouse",Microcebus murinus,8.8,-,-
+"Lemur, Red Ruffed",Varecia rubra,19.9,-,-
+"Lemur, Ring-tailed",Lemur catta,16.7,-,-
+"Leopard, Amur",Panthera pardus orientalis,18.1,-,-
+"Leopard, Clouded",Neofelis nebulosa,13.1,-,-
+"Leopard, Snow",Unica unica,15.1,-,-
+Lion,Panthera leo,16.9,-,-
+"Lizard, Chinese Crocodile",Shinisaurus crocodilurus,-,13.9,11.5
+"Lizard, Rio Fuerte Beaded",Heloderma horridum exasperatum,-,28.6,22.3
+"Lizars, Texas Horned",Phrynosoma cornutum,-,3.3,2.6
+"Loris, Pygmy",Nycticebus pygmaeus,12.3,-,-
+"Lynx, Canada",Lynx canadensis,14.8,-,-
+"Macaque, Japanese",Macaca fuscata,-,18.5,23.8
+"Macaque, Lion-tailed",Macaca silenus,26.6,-,-
+"Macaque, Sulawesi",Macaca nigra,14.7,-,-
+"Macaw, Hyacinth",Anodorhynchus hyacinthinus,25.1,-,-
+"Magpie, Azure-winged",Cyanopica cyanus,10.2,-,-
+"Magpie, Red-billed Blue",Urocissa erythrorhyncha,-,,11.3
+Mandrill,Mandrillus sphinx,20.6,-,-
+"Mangabey, Red-capped",Cercocebus torquatus,17.8,-,-
+"Markhor, Turkmenian",Capra falconeri heptneri,8.6,-,-
+"Marmoset, Geoffroy's",Callithrix geoffroyi,7.4,-,-
+"Marmoset, Pygmy",Callithrix pygmaea,-,6.5,5.4
+Meerkat,Suricata suricatta,9.8,-,-
+"Merganser, Scaly-sided",Mergus squamatus,4.1,-,-
+"Monkey, Bolivian Gray Titi",Callicebus donacophilus,-,-,10.9
+"Monkey, Central American Spider (Geoffroy's)",Ateles goeffroyi,25.1,-,-
+"Monkey, Common Squirrel",Saimiri sciureus,15.2,-,-
+"Monkey, DeBrazza's",Cercopithecus neglectus,15,-,-
+"Monkey, Diana",Cercopithecus diana,14.4,-,-
+"Monkey, Patas",Erythrocebus patas,14.5,-,-
+"Monkey, Robust Black Spider",Ateles fusciceps robustus,-,,26.3
+"Monkey, Schmidt’s Red-tailed",Cercopithecus ascanius schmidti,16,-,-
+"Monkey, Southern Black Howler",Alouatta caraya,17.8,-,-
+Moose,Alces alces,-,6.1,8.9
+"Motmot, Blue-crowned",Momotus momota,7.2,-,-
+"Mouse, Perdido Key Beach",Peromyscus polionotus trissylepsis,3.4,-,-
+"Murre, Common",Uria aalge,-,-,30.2
+"Myna, Bali",Leucopsar rothschildi,9.9,-,-
+"Mynah, Golden-crested",Ampeliceps coronatus,6,-,-
+"Nyala, Lowland",Tragelaphus angasii,-,4.9,8.8
+Ocelot,Leopardus pardalis,15.7,-,-
+Okapi,Okapia johnstoni,16.4,-,-
+"Orangutan, Bornean",Pongo pygmaeus,-,27.8,37.6
+"Orangutan, Sumatran",Pongo abelii,-,25.4,33.5
+"Oropendola, Crested",Psarocolius decumanus,7.1,-,-
+"Oryx, Arabian",Oryx leucoryx,-,12.1,14.8
+"Oryx, Fringe-eared",Oryx gazelle callotis,-,,12.6
+"Oryx, Scimitar-horned",Oryx dammah,-,10.7,15.5
+Ostrich,Struthio camelus,10.6,-,-
+"Otter, Asian Small-clawed",Amblonyx cinereus,-,14.1,11.8
+"Otter, North American River",Lontra canadensis,12.3,-,-
+"Otter, Sea",Enhydra lutris kenyoni & E. l. nereis,14.5,-,-
+"Owl, Burrowing",Athene cunicularia,7.5,-,-
+"Owl, Snowy",Nyctea scandiaca,10.2,-,-
+"Panda, Red (fulgens)",Ailurus fulgens fulgens,10,-,-
+"Panda, Red (styani)",Ailurus fulgens refulgens (styani),12,-,-
+"Parrot, Hawk-headed",Deroptyus accipitrinus,-,,15.4
+"Parrot, Thick-billed",Rhynchopsitta pachyrhyncha,13.2,-,-
+"Partridge, Crested Wood",Rollulus rouloul,4.9,-,-
+"Peafowl, Congo",Afropavo congensis,-,7.9,
+"Pelican, Great White",Pelicanus onocrotalus,10.4,-,-
+"Pelican, Pink-backed",Pelecanus rufescens,13.1,-,-
+"Penguin, Adelie",Pygoscelis adeliae,17.9,-,-
+"Penguin, African",Speniscus demersus,-,21.8,18.3
+"Penguin, Chinstrap",Pygoscelis antarctica,-,25.1,
+"Penguin, Gentoo (ellsworthi)",Pygoscelis papua ellsworthi,27.9,-,-
+"Penguin, Gentoo (papua)",Pygoscelis papua papua,29.9,-,-
+"Penguin, Humboldt",Spheniscus humboldti,17.6,-,-
+"Penguin, King",Aptenodytes patagonicus,26,-,-
+"Penguin, Macaroni",Eudyptes chrysolophus,26.3,-,-
+"Penguin, Magellanic",Spheniscus magellanicus,10.1,-,-
+"Penguin, Northern & Southern Rockhopper(Combined)",Eudyptes chrysocome,-,23.7,28.6
+"Pheasant, Palawan Peacock",Polyplectron napoleonis,-,8.4,6.4
+"Pigeon, Green-naped Pheasant",Otidiphaps nobilis,-,7.9,
+"Pigeon, Nicobar",Caloenas nicobarica,-,17.1,12
+"Pigeon, Victoria Crowned",Goura victoria,11.1,-,-
+"Pigeon, Western (Blue) Crowned",Goura cristata,7.7,-,-
+"Pitta, Hooded",Pitta sordida,3.2,-,-
+"Porcupine, Cape",Hystrix africaeaustralis,14.5,-,-
+"Porcupine, North American",Erethizon dorsatum,7.1,-,-
+"Porcupine, Prehensile-tailed",Coendou prehensilis,10.9,-,-
+"Pudu, Chilean",Pudu puda,7.7,-,-
+"Puffin, Atlantic",Fratercula arctica,14.8,-,-
+"Puffin, Tufted",Fratercula cirrhata,13.6,-,-
+Puma,Puma concolor,-,13.6,16
+"Python, Reticulated",Python reticulatus,11,-,-
+"Quoll, Tiger",Dasyurus maculatus,5,-,-
+"Rail, Guam",Gallirallus owstoni,-,9.6,5.7
+"Rattlesnake, Eastern Massasauga",Sistrurus catenatus catenatus,9.4,-,-
+"Rattlesnake, Mexican Lance-headed",Crotalus polystictus,8,-,-
+"Rhea, Greater",Rhea americana,7.8,-,-
+"Rhinoceros, Eastern Black",Diceros bicornis michaeli,19,-,-
+"Rhinoceros, Greater One-horned",Rhinoceros unicornis,30.2,-,-
+"Rhinoceros, Southern White",Cerathotherium simum,31.4,-,-
+Ringtail,Bassariscus astutus,11.1,-,-
+"Roller, Blue-bellied",Coracias cyanogaster,8.9,-,-
+"Saki, White-faced",Pithecia pithecia,-,,11.6
+"Screamer, Southern",Chauna torquata,13.6,-,-
+"Sea Lion, California",Zalophus californianus,23.3,-,-
+"Seal, Grey",Halichoerus grypus,18.8,-,-
+"Seal, Harbor",Phoca vitulina,24.8,-,-
+"Seriema, Red-legged",Cariama cristata,17.9,-,-
+Serval,Leptailurus serval,13.2,-,-
+"Shark, Sand Tiger",Carcharias taurus,21.4,-,-
+"Sheep, Desert Bighorn",Ovis canadensis nelsoni,-,,10.3
+Siamang,Symphalangus syndactylus,27,-,-
+"Sifaka, Coquerel's",Propithecus coquereli,-,10.7,
+Sitatunga,Tragelaphus spekii,-,5.4,7.7
+"Skink, Prehensile-tailed",Corucia zebrata,-,15.5,11.5
+"Sloth, Hoffman's Two-toed",Choleopus hoffmanni,15.2,-,-
+"Sloth, Linne's Two-toed",Choleopus didactylus,16,-,-
+"Snake, Eastern Indigo",Drymarchon couperi,11.4,-,-
+"Snake, Louisiana Pine",Pituophis ruthveni,16.4,-,-
+"Spider, Sapphire Ornamental Spider",Poecilotheria metallica,13.1,-,-
+"Spoonbill, Roseate",Ajaia ajaja,-,12,9.8
+"Springbok, South African",Antidorcas marsupialis,-,4.4,6.6
+"Squirrel, Prevost's",Callosciurus prevostii,7.6,-,-
+"Starling, Emerald",Coccycolius iris,-,9.6,6.9
+"Starling, Golden-breasted",Cosmopsarus regius,8,-,-
+"Starling, Grosbeak",Scissirostrum dubium,6.5,-,-
+"Starling, Violet-backed (Amethyst)",Cinnyricinclus leucogaster,7.3,-,-
+Steenbok,Raphicerus campestris,5.7,-,-
+"Stilt, Black-necked",Himantopus mexicanus,-,12.9,
+"Stingray, Ocellated River",Potamotrygon motoro,6.5,-,-
+"Stingray, White-blotched River",Potamotrygon leopoldi,6.4,-,-
+"Stork, European White",Ciconia ciconia ciconia,-,17.3,12.8
+"Stork, Marabou",Leptoptilos crumenifer,-,18.4,9.7
+"Stork, Painted",Mycteria leucocephala,10.9,-,-
+"Stork, Saddle-billed",Ephippiorhynchus senegalensis,11.4,-,-
+"Stork, Yellow-billed",Mycteria ibis,11,-,-
+Sunbittern,Eurypyga helias,-,16.7,12.2
+"Swan, Coscoroba",Coscoroba coscoroba,9.7,-,-
+"Swan, Trumpeter",Cygnus buccinator,11.3,-,-
+"Takin, Sichuan",Budorcas taxicolor tibetana,-,12.4,
+"Tamandua, Southern",Tamandua tetradactyla,-,,9.2
+"Tamarin, Bearded Emperor",Saguinus imperator subgrisescens,7.8,-,-
+"Tamarin, Cotton-top",Saguinus oedipus,12.2,-,-
+"Tamarin, Golden-headed Lion",Leontopithecus chrysomelas,11.6,-,-
+"Tamarin, Pied",Sanguinus bicolor,10.6,-,-
+"Tanager, Blue-grey",Thraupis episcopus,4.7,-,-
+"Tanager, Silver-beaked",Ramphocelus carbo,5,-,-
+"Tanager, Turquoise",Tangara mexicana,3.3,-,-
+"Tapir, Malayan (Asian)",Tapirus indicus,-,20.4,12.1
+"Tarantula, Mexican Red-kneed",Brachypelma smithi,-,,17.2
+"Teal, Marbled",Marmaronetta angustirostris,-,5.8,5.1
+"Tenrec, Lesser Madagascar Hedgehog",Echinops telfairi,-,8.4,7.3
+"Tern, Inca",Larosterna inca,9.6,-,-
+"Terrapin, Painted",Batagur borneoensis,14.7,-,-
+"Thursh, Common Shama",Copsychus malabaricus,-,5.3,4.4
+"Tiger, Amur (Siberian)",Panthera tigris altaica,-,16,14.3
+"Tiger, Malayan",Panthera tigris jacksoni,16.1,-,-
+"Tiger, Sumatran",Panthera tigris sumatrae,18.4,-,-
+"Tinamou, Elegant Crested",Eudromia elegans,-,3.8,2.9
+"Toad, Houston",Bufo (Anaxyrus) houstonensis,-,5.4,4.7
+"Toad, Puerto Rican Crested (Northern and South",Peltophryne lemur,5.5,-,-
+"Toad, Wyoming",Anaxyrus baxteri,3,-,-
+"Tortoise, Egyptian",Testudo kleinmanni,12.9,-,-
+"Toucan, Chestnut-mandibled",Ramphastos ambiguus swainsonii,10.3,-,-
+"Toucan, Keel-billed",Ramphastos sulfuratus,8,-,-
+"Toucan, Toco",Ramphastos toco,8.5,-,-
+"Tragopan, Cabot's",Tragopan caboti,4.4,-,-
+"Tree Kangaroo, Matschie's",Dendrolagus matschiei,12,-,-
+"Tree Shrew, Northern",Tupaia belangeri,7.1,-,-
+Troupial,Icterus icterus,-,6.1,
+"Trumpeter, Grey-winged",Psophia crepitans,5.7,-,-
+"Turaco, Lady Ross'",Musophaga rossae,10.5,-,-
+"Turaco, Red-crested",Tauraco erythrolophus,9,-,-
+"Turaco, Violaceous",Musophaga violacea,-,16.1,11.9
+"Turaco, White-cheeked",Tauraco leucotis,10.4,-,-
+"Turtle, Coahuilan Box",Terrapene coahuila,-,,15.3
+"Turtle, Wood",Glyptemys insculpta,17.1,-,-
+"Viper, Philippine Palm",Parias flavomaculatus mcgregori,13,-,-
+"Vulture, Eurasian Black",Aeypius monachus,31.9,-,-
+"Vulture, King",Sarcorhamphus papa,-,,28.4
+"Wallaby, Bennett’s",Macropus rufogriseus,5.3,-,-
+"Wallaby, Parma",Macropus parma,5.5,-,-
+"Wallaby, Tammar",Macropus eugenii,5.8,-,-
+"Wallaby, Yellow-footed Rock",Petrogale xanthopus xanthopus,-,6.1,
+"Wallaroo, Common",Macropus robustus,-,7.1,8.8
+"Warthog, Common",Phacochoerus africanus,-,11.2,12.5
+"Weaver, White-headed Buffalo",Dinemellia dinemelli,7.3,-,-
+"Wildebeest, White-bearded",Connochaetes taurinus,-,8.5,14
+"Wolf, Maned",Chrysocyon brachyurus,12,-,-
+"Wolf, Mexican Gray",Canis lupus baileyi,11,-,-
+"Wolf, Red",Canis rufus gregoryi,10.8,-,-
+"Woodhoopoe, Green",Phoeniculus purpureus,-,6.2,4.1
+"Zebra, Grevy's",Equus grevyi,-,10.9,16.5
+"Zebra, Hartmann's Mountain",Equus zebra hartmannae,-,12.3,15.2
+"Zebra, Plains",Equus quagga,16.9,-,-
