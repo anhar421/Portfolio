@@ -6,6 +6,9 @@ This project investigates the distribution of bird species along the California 
 ### Language
 Python
 
+### Tools
+PowerBI for visualization and some processing
+
 ### Data Source
 NOAA Fisheries dataset:
 https://www.webapps.nwfsc.noaa.gov/apex/parrdata/inventory/tables/table/bird_density_by_station_in_the_california_current_ecosystem 
