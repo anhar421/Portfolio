@@ -6,11 +6,11 @@ This is a Powerpoint presentation geared towards executives at Model Airlines to
 *Note that there are both PPTX and PDF files available.
 
 ### Tools
-Data originally processed with Python
+Data originally processed with Python and PowerBI
 
-Power BI and Canva were used to create visualizations
+PowerBI and Canva create visualizations
 
-Powerpoint utilized for presentation
+Powerpoint  for presentation
 
 ### Data Source
 Aviation Safety Network
