@@ -4,7 +4,7 @@ Registered Democrat voters fell below registered Republican voters in Florida in
 
 2021's data differentiated from previous years by showing an overall decrease in voter registrations that exceeded any single year overall loss in at least seven years. In particular, the Democratic party saw a loss of more than twice as many voters as Republicans. 
 
-###Tools
+### Tools
 R
 
 PowerBI
