@@ -1,4 +1,3 @@
-#
 # Anna Harvey
 # Search program to find board games within a SQL database that meet a certain criteria
 
