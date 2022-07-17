@@ -1,7 +1,3 @@
-#
-# Anna Harvey
-# Search program to find board games within a SQL database that meet a certain criteria
-
 import sqlite3
 import mysql.connector
 import pandas as pd
@@ -48,7 +44,7 @@ def find_game():
         cursor = conn.cursor()
 
         select_games_query = """SELECT * FROM games WHERE ? BETWEEN min_num and max_num AND 
-        ? BETWEEN min_time and max_time"""
+        ? <= max_time"""
         cursor.execute(select_games_query, (players, time,))
         record = cursor.fetchall()
 
