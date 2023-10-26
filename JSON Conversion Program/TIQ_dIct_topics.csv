@@ -1,0 +1,5 @@
+operation,label,query
+insert_topic,Topic1,format | keywords | according to | TextiQ | standards
+insert_topic,Topic2,this not (that or there or why) | those and these
+insert_topic,Topic3,"(TextiQ rules)~3 | (need to be learned) | ""to optimize"" | this | dictionary"
+insert_topic,Topic4,example
