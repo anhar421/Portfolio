@@ -4,6 +4,8 @@ The Qualtrics survey platform provides many user-friendly solutions to creating 
 
 One option available is to upload a custom JSON topic dictionary to the TextiQ tool. The JSON file needs to be specifically formatted to work with TextiQ. My team needed a simple method to create our own base topic dictionary to use across all of our surveys. The easiest way for anyone on my team to do that is to edit an Excel spreadsheet. To make this work with TextiQ, I created a program that converts CSV documents into the appropriately formatted JSON file necessary for TextiQ. Now anyone can edit the Excel file, run it through the program, and create a useable JSON file.
 
+Note that the CSV file needs to be formatted using the specific dictionary rules that Qualtrics TextiQ keeps to. Information about that formatting can be found here: https://www.qualtrics.com/support/survey-platform/data-and-analysis-module/text-iq/topics-in-text-iq/
+
 ### Tools
 Python
 
